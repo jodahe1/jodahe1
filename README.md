@@ -1,23 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yodahe Teshome</h1>
-<h3 align="center">Am a 4th-year computer science student From Ethiopia , Addis Ababa with a strong interest in data analysis, engineering, and Android app development.</h3>
+<h3 align="center">Am a Data analyst and android app developer .</h3>
 
-- 🔭 I’m currently working on **Developing Android App**
-
-- 🌱 I’m currently learning **Advanced Data Engineering**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 📫 How to reach me **jodahe2001@gmial.com**
-
-- 📄 Know about me [https://sites.google.com/view/yodaheteshomeassefa?usp=sharing](https://sites.google.com/view/yodaheteshomeassefa?usp=sharing)
-
-- ⚡ Fun fact **Lazy at same time handworker**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yodahe-teshome-75a539200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yodahe-teshome-75a539200" height="30" width="40" /></a>
-<a href="https://kaggle.com/yodaheteshome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yodaheteshome" height="30" width="40" /></a>
-</p>
 
 ## Languages and Tools 
 <div>
@@ -35,18 +18,6 @@
 |----------|----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line.svg" title="Django"  alt="Django" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI"  alt="FastAPI" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras"  alt="Keras" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF"  alt="TF" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright"  alt="Playwright" width="55" height="55"/> |
 
-
-
-### Best frameworks and main libraries for Go:
-| GIN |
-|--------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GIN"  alt="GIN" width="55" height="55"/> |
-
-
-### Best frontend frameworks and main libraries for JS/TS:
-| React | Vue | Angular | NextJS | NuxtJS | ThreeJS | MUI |
-|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue"  alt="Vue" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next"  alt="Next" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt"  alt="Nuxt" width="55" height="55"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS"  alt="ThreeJS" width="55" height="55"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI"  alt="MUI" width="55" height="55"/> |
 
 ### Best backend frameworks and main libraries for JS/TS:
 | Express | Nest |
