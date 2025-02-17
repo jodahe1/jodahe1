@@ -33,4 +33,3 @@ I am a passionate data scientist with a strong background in data analysis, mach
 
 
 
-<h2 align="center">Let Me Feed on Data.🐍</h2>
